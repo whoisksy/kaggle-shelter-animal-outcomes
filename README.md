@@ -1,1 +1,1 @@
-# animal-state-prediction
+# kaggle-animal-state-prediction
