@@ -1,1 +1,1 @@
-# kaggle-animal-state-prediction
+# kaggle-shelter-animal-outcomes
